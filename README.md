@@ -4,6 +4,8 @@
 <br />
 <a href="https://1.github.io/2.html"> 2.html </a>
 <hr />
-<img src="https://1.github.io/1.jpg"/>
+<img src="https://1.github.io/1.jpg"
+     alt="1.jpg"
+     title="1.jpg"/>
 </body>
 </html>
