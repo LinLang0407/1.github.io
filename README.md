@@ -1,21 +1,10 @@
 <html>
 <head>
-<title> nwuofdncj </title>
+<title> 1.github.io </title>
 </head>
 
-<body>
-<blockquote>
-<h1> cawjdnqic </h1>
-<p> lang="en-us"> cnoqfhe nci doqfj </p>
-<h2> hqishciw hwbi <b>aihwbii</b> 2fuheuwh <i>wfhe duahique</i> ue </h2>
-<p> ewh<sup>2</sup>   wid<sub>333</sub> <br /> iswdj</p>
-<hr />
-<h1> hei <strong> woidfwe di </strong> wuchu<em> uef </em></h1>
-<blockquote cite="www.bilibili.com"> <p><abbr title="ifhiw">if</abbr> ihiw siad <cite> ieiwfh </cite> eihwf </p>
-</blockquote>
-<p> <dfn>uwhf ih</dfn> ijie <ins> iwhfi</ins>   ishvie <del> aidhf </del>owie<s>vhiehgi</s></p>
-<address> wihfidksnc
-aiewhfiehfi r3ibir</address>
-</blockquote>
+<a href="https://1.github.io/1.html"> 1.html <a>
+<a href="https://1.github.io/2.html"> 2.html <a>
+
 </body>
 </html>
